@@ -5,14 +5,14 @@ Simple shop application built with Blazor WebAssembly
 
 ## :boy: Author 
 
-[![Facebook](https://img.shields.io/badge/kalin.tsenkow-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/kalin.tsenkow/) [![Instagram](https://img.shields.io/badge/kalintsenkov-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kalintsenkov/) [![LinkedIn](https://img.shields.io/badge/kalintsenkov-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalintsenkov/) [![GitHub](https://img.shields.io/badge/kalintsenkov-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalintsenkov)
+[![Facebook](https://img.shields.io/badge/kalin.tsenkow-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/kalin.tsenkow/) [![Instagram](https://img.shields.io/badge/kalintsenkov-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kalintsenkov/) [![LinkedIn](https://img.shields.io/badge/kalintsenkov-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalintsenkov/) [![GitHub](https://img.shields.io/badge/kalintsenkov-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuckyGenie1004)
 
 ## :eyes: Try it out
 
 Make sure you have the [.NET Core 3.1 SDK](https://dotnet.microsoft.com/download) installed on your machine. Then do:
 
 ```
-git clone https://github.com/kalintsenkov/BlazorShop.git
+git clone https://github.com/LuckyGenie1004/BlazorShop.git
 cd BlazorShop/src
 dotnet run --project BlazorShop.Web/Server/BlazorShop.Web.Server.csproj
 ```
